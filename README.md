@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Analysis**
 
-- 🤝 Hit me up on [my portfolio](https://i-ninte.github.io/portfolio)
+- 🤝 Check out my  [my portfolio](https://i-ninte.github.io/portfolio)
 
 - Some of my data analysis projects are available on [https://www.kaggle.com/kwabenaobeng](https://www.kaggle.com/kwabenaobeng)
 
