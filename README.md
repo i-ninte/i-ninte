@@ -13,7 +13,7 @@
 
 - Some of my data analysis projects are available on [https://www.kaggle.com/kwabenaobeng](https://www.kaggle.com/kwabenaobeng)
 
-- 💬 Ask me about **data analysis, machine learning, and R programming.**
+- 💬 Ask me about **data analysis, machine learning, and R.**
 
 - 📫 How to reach me **slyobeng111@gmail.com**
 
