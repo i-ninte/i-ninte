@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-ninte&show_icons=true&locale=en" alt="i-ninte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ninte&" alt="i-ninte" /></p>
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/i-ninte/langs)](https://githubtrends.io)
+
