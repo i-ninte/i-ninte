@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/i_ninte" target="blank"><img src="https://img.shields.io/twitter/follow/i_ninte?logo=twitter&style=for-the-badge" alt="i_ninte" /></a> </p>
 
-- 🔭 I’m currently working on [the Bellabeat case study](https://www.kaggle.com/code/kwabenaobeng/bellabeat-case-study)
+- 🔭 I’m currently working on my undergraduate capstone project
 
 - 🌱 I’m currently learning **Full Stack development, Embedded systems, and Operating Systems.**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Analysis**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Analysis Projects**
 
 - 🤝 Check out my  [my portfolio](https://bento.me/ninte)
 
