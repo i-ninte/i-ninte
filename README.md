@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **ML/AI Projects**
 
-- 🤝 Check out my  [my portfolio](https://bento.me/ninte)
+- 🤝 Check out my  [my portfolio](https://i-ninte.github.io/portfolio/)
 
 - Some of my data analysis projects are available on [https://www.kaggle.com/kwabenaobeng](https://www.kaggle.com/kwabenaobeng)
 
