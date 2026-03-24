@@ -1,33 +1,109 @@
-<h1 align="center">Hi 👋, I'm Kwabena</h1>
-<h3 align="center">A Computer Engineer from Ghana</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/i_ninte" target="blank"><img src="https://img.shields.io/twitter/follow/i_ninte?logo=twitter&style=for-the-badge" alt="i_ninte" /></a> </p>
+```
+██╗  ██╗ ██████╗
+██║ ██╔╝██╔═══██╗
+█████╔╝ ██║   ██║
+██╔═██╗ ██║   ██║
+██║  ██╗╚██████╔╝
+╚═╝  ╚═╝ ╚═════╝
+```
 
-- 👯 I’m looking to collaborate on **ML/AI Projects**
+# Kwabena Obeng
+### AI/ML Engineer · Computer Vision · NLP · Healthcare AI
 
-- 🤝 Check out my  [my portfolio](https://i-ninte.github.io/portfolio/)
+*Building scalable intelligence for real-world impact — from Accra, Ghana 🇬🇭*
 
-- Some of my data analysis projects are available on [https://www.kaggle.com/kwabenaobeng](https://www.kaggle.com/kwabenaobeng)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://i-ninte.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kwabenaobeng/)
+[![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/ninte)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kwabenaobeng)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kwabena.obeng/vizzes)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_ninte/)
 
-- 📫 How to reach me **slyobeng111@gmail.com**
+</div>
 
-- ⚡ Fun fact **I'm always ready to learn something new every day!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_ninte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_ninte" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kwabena-obeng-a0b4b1207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kwabena-obeng-a0b4b1207/" height="30" width="40" /></a>
-<a href="https://kaggle.com/kwabenaobeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kwabenaobeng" height="30" width="40" /></a>
-<a href="https://instagram.com/i._ninte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i._ninte" height="30" width="40" /></a>
-<a href="https://discord.gg/i_ninte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="i_ninte" height="30" width="40" /></a>
-</p>
+## 👤 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm an **AI/ML Engineer and researcher** who builds production-ready machine learning systems that tackle real challenges in **healthcare, agriculture, and social impact**. My work sits at the intersection of deep learning, computer vision, and NLP — with a particular focus on making AI accessible and beneficial for underserved communities.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-ninte&show_icons=true&locale=en&layout=compact" alt="i-ninte" /></p>
+- 🏆 Award-winning work in **healthcare AI** — clinical reasoning systems & disease outbreak prediction
+- 🌱 Built **crop disease detection** models optimized for mobile deployment in agricultural settings
+- 🔬 Currently pursuing advanced research at the **intersection of AI and social good**
+- 🤝 Open to collaborating on **ML/AI projects** — especially those with real-world impact
+- ⚡ Philosophy: *Learn something new every single day*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-ninte&show_icons=true&locale=en" alt="i-ninte" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ninte&" alt="i-ninte" /></p>
+## 🧠 What I Work With
 
+<div align="center">
+
+### Core ML / AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Web & Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+</div>
+
+---
+
+## 🔬 Research Interests
+
+```
+🫀 Healthcare AI          →  Clinical reasoning · Outbreak prediction · Medical imaging
+🌾 AgriTech               →  Crop disease detection · Edge-optimized models
+💬 NLP                    →  LLMs · Text classification · Low-resource languages
+👁️ Computer Vision        →  Object detection · Segmentation · Mobile CV
+🌍 Responsible AI         →  Ethics · Accessibility · Developing-world deployment
+📡 IoT + ML               →  Embedded intelligence · Sensor fusion
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=i-ninte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ninte&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-ninte&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm always open to research collaborations, interesting ML problems, and conversations about AI for social good.
+
+**📧** slyobeng111@gmail.com &nbsp;|&nbsp; **📍** Accra, Ghana &nbsp;|&nbsp; **🌐** [i-ninte.vercel.app](https://i-ninte.vercel.app/)
+
+*"The best way to predict the future is to build it."*
+
+</div>
