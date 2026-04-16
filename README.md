@@ -103,12 +103,9 @@ My work focuses on **multimodal AI** (vision + language + structured/temporal da
 🌍 AI for Social Good     →  Responsible deployment · Accessibility · Developing-world AI
 ```
 
----
-
 ## 🎓 Teaching & Community
 
-At KNUST, I served as a **Trail Support Tutor and Academic Representative**, organising interventions that supported over **2,000 students** in core computing courses. I also led the Computer Engineering quiz team and ran hands-on machine learning tutorials for the **KNUST Data Science and AI Club
----
+At KNUST, I served as a **Trail Support Tutor** and **Academic Representative**, organising interventions that supported over **2,000 students** in core computing courses. I also led the Computer Engineering quiz team and ran hands-on machine learning tutorials for the **KNUST Data Science and AI Club**.
 
 ## 📊 GitHub Stats
 
