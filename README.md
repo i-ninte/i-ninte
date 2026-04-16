@@ -29,13 +29,12 @@
 
 I'm an **AI/ML researcher and engineer** driven by a core question: *How can we build AI systems that augment human expertise in resource-constrained, high-stakes environments?*
 
-That question took root when I watched a nurse practitioner in a rural Ghanaian clinic diagnose malaria with only a basic microscope and her experience — no lab support, no digital records, unreliable electricity. It's shaped every research direction I've pursued since.
 
-My work focuses on **multimodal AI** (vision + language + structured/temporal data), with particular emphasis on making systems that are interpretable, data-efficient, and actually deployable in the Global South. I don't build black boxes — when lives or livelihoods are at stake, AI must be able to explain itself.
+My work focuses on **multimodal AI** (vision + language + structured/temporal data), with particular emphasis on making systems that are interpretable, data-efficient, and actually deployable in the Global South. 
 
 **Three research threads run through everything I do:**
 
-- 🔀 **Multimodality & multilinguality** — reasoning jointly across visual, linguistic, and temporal data; serving diverse linguistic communities (QueryAmie supports 160+ languages)
+- 🔀 **Multimodality & multilinguality** — reasoning jointly across visual, linguistic, and temporal data; serving diverse linguistic communities 
 - 📉 **Data scarcity & class imbalance** — effective learning when labelled data is sparse or unevenly distributed, using LoRA adaptation, ensemble methods, and strategic augmentation
 - 🔍 **Explainability & trust** — uncertainty-aware models that communicate their reasoning to domain experts making consequential decisions
 
@@ -49,20 +48,8 @@ My work focuses on **multimodal AI** (vision + language + structured/temporal da
 | 🏥 Kenya Clinical Reasoning Challenge | 🥈 Silver Medal | LoRA-adapted Flan-T5 on 400 rural healthcare prompts; 5-fold ensemble; maternal health, paediatrics & critical care |
 | 🌾 Ghana Crop Disease Detection Challenge | 🥉 Bronze Medal | YOLOv11 fine-tuned with stratified sampling; optimised for mobile inference in agricultural field conditions |
 
----
 
-## 💼 Selected Work
 
-**Phrontlyne Technologies** — built production systems processing thousands of insurance claims monthly:
-- Multimodal pipeline: YOLO-based vehicle assessment + OCR + RAG with FAISS/LangChain → **40% faster, 45% more accurate**
-- Multilingual ASR pipeline using OpenAI Whisper + PyAnnote speaker diarization
-- Fraud detection, Ghana Card OCR, and face recognition with anti-spoofing
-
-**QueryAmie** — my platform for document analysis, voice interaction, and web search across **160+ languages**, designed as the accessible multilingual AI infrastructure I envision for underserved communities
-
-**African Institute for Development Research and Evaluation** — research assistantship designing surveys and analysing police conviction data for a study on CCTV adoption in Ghana; now informs how I evaluate LLMs and multimodal systems for fairness
-
----
 
 ## 🧠 Tech Stack
 
